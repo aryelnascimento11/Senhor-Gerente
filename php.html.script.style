@@ -1,0 +1,12 @@
+ var senha; 
+    var senha=1234;
+    senha=parseFloat(prompt("Entre com sua senha: ")); 
+    
+    if(senha=senha==1234){ 
+       document.write("Acesso Liberado"); 
+    }
+    
+
+    if(senha=senha==1234){ 
+      document.write("Acesso Negado"); 
+   }

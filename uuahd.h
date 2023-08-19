@@ -1,0 +1,1 @@
+<input type="submit" onclick="validar-Senha-Correta()" class="btn btn-primary btn-block" "
